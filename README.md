@@ -16,3 +16,4 @@ Tech Stack: Python, Streamlit, JSON, Pandas, AI-based risk scoring
 Use Case: Learn AI-driven threat prioritization, SOC workflows, and build professional cybersecurity dashboards.
  
  link to open :http://localhost:8503/
+<img width="1901" height="890" alt="Screenshot 2026-01-21 154308" src="https://github.com/user-attachments/assets/e16670e6-4fdf-42c9-819f-1352f7a922b5" />
