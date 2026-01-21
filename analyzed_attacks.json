@@ -1,0 +1,352 @@
+[
+    {
+        "ip": "10.0.206.206",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 88,
+        "severity": "HIGH",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.19.164",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 93,
+        "severity": "HIGH",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.223.166",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 67,
+        "severity": "LOW",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.214.70",
+        "attack_type": "Phishing Server",
+        "risk_score": 97,
+        "severity": "HIGH",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.45.176",
+        "attack_type": "Brute Force Source",
+        "risk_score": 72,
+        "severity": "MEDIUM",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.72.41",
+        "attack_type": "Malware Distribution IP",
+        "risk_score": 98,
+        "severity": "HIGH",
+        "country": "RU"
+    },
+    {
+        "ip": "10.0.81.125",
+        "attack_type": "Botnet Controller",
+        "risk_score": 65,
+        "severity": "LOW",
+        "country": "BR"
+    },
+    {
+        "ip": "10.0.72.7",
+        "attack_type": "Brute Force Source",
+        "risk_score": 99,
+        "severity": "HIGH",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.46.222",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 89,
+        "severity": "HIGH",
+        "country": "BR"
+    },
+    {
+        "ip": "10.0.95.93",
+        "attack_type": "Phishing Server",
+        "risk_score": 65,
+        "severity": "LOW",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.102.147",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 65,
+        "severity": "LOW",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.78.114",
+        "attack_type": "Botnet Controller",
+        "risk_score": 97,
+        "severity": "HIGH",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.123.62",
+        "attack_type": "Phishing Server",
+        "risk_score": 67,
+        "severity": "LOW",
+        "country": "IR"
+    },
+    {
+        "ip": "10.0.49.13",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 75,
+        "severity": "MEDIUM",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.175.25",
+        "attack_type": "Brute Force Source",
+        "risk_score": 71,
+        "severity": "MEDIUM",
+        "country": "RU"
+    },
+    {
+        "ip": "10.0.122.116",
+        "attack_type": "Phishing Server",
+        "risk_score": 92,
+        "severity": "HIGH",
+        "country": "CN"
+    },
+    {
+        "ip": "10.0.148.25",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 67,
+        "severity": "LOW",
+        "country": "CN"
+    },
+    {
+        "ip": "10.0.225.118",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 97,
+        "severity": "HIGH",
+        "country": "RU"
+    },
+    {
+        "ip": "10.0.84.229",
+        "attack_type": "Botnet Controller",
+        "risk_score": 79,
+        "severity": "MEDIUM",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.182.38",
+        "attack_type": "Phishing Server",
+        "risk_score": 68,
+        "severity": "LOW",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.148.131",
+        "attack_type": "Botnet Controller",
+        "risk_score": 72,
+        "severity": "MEDIUM",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.126.180",
+        "attack_type": "Phishing Server",
+        "risk_score": 93,
+        "severity": "HIGH",
+        "country": "RU"
+    },
+    {
+        "ip": "10.0.155.73",
+        "attack_type": "Brute Force Source",
+        "risk_score": 82,
+        "severity": "MEDIUM",
+        "country": "IR"
+    },
+    {
+        "ip": "10.0.65.99",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 61,
+        "severity": "LOW",
+        "country": "IR"
+    },
+    {
+        "ip": "10.0.243.66",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 98,
+        "severity": "HIGH",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.182.208",
+        "attack_type": "Phishing Server",
+        "risk_score": 89,
+        "severity": "HIGH",
+        "country": "CN"
+    },
+    {
+        "ip": "10.0.92.114",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 76,
+        "severity": "MEDIUM",
+        "country": "IR"
+    },
+    {
+        "ip": "10.0.61.8",
+        "attack_type": "Brute Force Source",
+        "risk_score": 64,
+        "severity": "LOW",
+        "country": "BR"
+    },
+    {
+        "ip": "10.0.105.2",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 66,
+        "severity": "LOW",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.240.72",
+        "attack_type": "Phishing Server",
+        "risk_score": 90,
+        "severity": "HIGH",
+        "country": "RU"
+    },
+    {
+        "ip": "10.0.82.44",
+        "attack_type": "Botnet Controller",
+        "risk_score": 82,
+        "severity": "MEDIUM",
+        "country": "CN"
+    },
+    {
+        "ip": "10.0.11.152",
+        "attack_type": "Brute Force Source",
+        "risk_score": 73,
+        "severity": "MEDIUM",
+        "country": "BR"
+    },
+    {
+        "ip": "10.0.202.34",
+        "attack_type": "Botnet Controller",
+        "risk_score": 74,
+        "severity": "MEDIUM",
+        "country": "BR"
+    },
+    {
+        "ip": "10.0.50.31",
+        "attack_type": "Botnet Controller",
+        "risk_score": 75,
+        "severity": "MEDIUM",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.155.112",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 74,
+        "severity": "MEDIUM",
+        "country": "BR"
+    },
+    {
+        "ip": "10.0.125.218",
+        "attack_type": "Botnet Controller",
+        "risk_score": 77,
+        "severity": "MEDIUM",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.253.178",
+        "attack_type": "Malware Distribution IP",
+        "risk_score": 69,
+        "severity": "LOW",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.230.219",
+        "attack_type": "Phishing Server",
+        "risk_score": 97,
+        "severity": "HIGH",
+        "country": "CN"
+    },
+    {
+        "ip": "10.0.71.115",
+        "attack_type": "Malware Distribution IP",
+        "risk_score": 99,
+        "severity": "HIGH",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.186.220",
+        "attack_type": "Brute Force Source",
+        "risk_score": 98,
+        "severity": "HIGH",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.159.80",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 63,
+        "severity": "LOW",
+        "country": "IR"
+    },
+    {
+        "ip": "10.0.155.224",
+        "attack_type": "Phishing Server",
+        "risk_score": 97,
+        "severity": "HIGH",
+        "country": "BR"
+    },
+    {
+        "ip": "10.0.176.96",
+        "attack_type": "Brute Force Source",
+        "risk_score": 91,
+        "severity": "HIGH",
+        "country": "RU"
+    },
+    {
+        "ip": "10.0.90.7",
+        "attack_type": "Malware Distribution IP",
+        "risk_score": 95,
+        "severity": "HIGH",
+        "country": "RU"
+    },
+    {
+        "ip": "10.0.3.218",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 90,
+        "severity": "HIGH",
+        "country": "CN"
+    },
+    {
+        "ip": "10.0.14.42",
+        "attack_type": "Malware Distribution IP",
+        "risk_score": 94,
+        "severity": "HIGH",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.90.154",
+        "attack_type": "Ransomware C2 Server",
+        "risk_score": 93,
+        "severity": "HIGH",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.164.252",
+        "attack_type": "Botnet Controller",
+        "risk_score": 61,
+        "severity": "LOW",
+        "country": "KP"
+    },
+    {
+        "ip": "10.0.71.100",
+        "attack_type": "Brute Force Source",
+        "risk_score": 79,
+        "severity": "MEDIUM",
+        "country": "IN"
+    },
+    {
+        "ip": "10.0.223.23",
+        "attack_type": "Botnet Controller",
+        "risk_score": 74,
+        "severity": "MEDIUM",
+        "country": "BR"
+    }
+]
